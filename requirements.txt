@@ -1,9 +1,11 @@
+# 自行下载torch torchvision  gpu 版本： pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 scipy
 numpy
 matplotlib
 opencv_python
-torch
-torchvision
 tqdm
 Pillow
 h5py
+tensorboard
+torchsummary
+thop
